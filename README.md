@@ -210,8 +210,8 @@ Designed for:
 
 # 👩‍💻 Author
 
-**Vaishnavi**
-Built with a vision to improve **doctor safety through technology.**
+**👥 A collaborative project developed by Vaishnavi and team members**
+
 
 ---
 
